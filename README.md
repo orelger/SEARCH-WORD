@@ -1,17 +1,18 @@
 # SEARCH-WORD
 
-#  REQUIRMENTS:
+### REQUIRMENTS:
+
 
 linux
 
 
-#  DESCRIPTION:
+### DESCRIPTION:
 
 Looking for a word recursively in the path 
 
 
 
-#  The run command:
+### The run command:
 
 rec.sh <the word that you're looking for>
 
