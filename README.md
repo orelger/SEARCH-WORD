@@ -1,13 +1,15 @@
 # SEARCH-WORD
 
-#REQUIRMENTS:
+REQUIRMENTS:
 
-Ubuntu
+linux
 
 
-DEESCRIPTION:
+DESCRIPTION:
 
 Looking for a word in file recursively in the path 
+
+
 
 The run command:
 
