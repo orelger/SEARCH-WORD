@@ -1,2 +1,16 @@
 # SEARCH-WORD
-Looking for a word in all the folders in the path 
+
+#REQUIRMENTS:
+
+Ubuntu
+
+
+DEESCRIPTION:
+
+Looking for a word in file recursively in the path 
+
+The run command:
+
+rec.sh <the word that you're looking for>
+
+
