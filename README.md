@@ -7,7 +7,8 @@ linux
 
 ### DESCRIPTION:
 
-Looking for a word recursively in the path 
+Looking for a word recursively in the path and saves the result in new folder with all the files that the word appears their.
+
 
 
 
